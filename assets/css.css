@@ -326,6 +326,7 @@ main {
 \*-----------------------------------*/
 
 .sidebar {
+  background-image: url(/photo/b.png);
   margin-bottom: 15px;
   max-height: 112px;
   overflow: hidden;
