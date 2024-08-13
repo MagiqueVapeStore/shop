@@ -79,7 +79,7 @@ let conteur= 0;
         function envoier(){
             let ev = document.getElementById('tname');
             ev.value = finCommend() ;
-            const scriptURL = 'https://script.google.com/macros/s/AKfycbwtJVavyZeXgpNA3IpBmyNzMfVeCFxHtHCjxzJHRTSsl-pnIO8IWALbtQjEnsfnviaGrw/exec'
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbybLAZCUY5txmA5McevCRI67twW6haNVPDxeKho13lI-UA33a2KSq5LPba9bDpotW8/exec'
 
             const form = document.forms['contact-form']
             
